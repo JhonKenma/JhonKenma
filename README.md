@@ -8,14 +8,6 @@
 
 Egresado de **Diseño y Desarrollo de Software** en TECSUP, con experiencia en construir APIs REST escalables, seguras y mantenibles. Manejo de bases de datos, control de versiones con Git y metodologías ágiles. Destaco por mi comunicación efectiva, proactividad y adaptabilidad.
 
-```javascript
-const jhonHerrera = {
-  rol: "Full-Stack Developer",
-  ubicacion: "Lima, Perú 🇵🇪",
-  enfoque: "Backend Development & API Design",
-  estado: "Abierto a nuevas oportunidades"
-};
-```
 
 ## 💻 Stack Tecnológico
 
