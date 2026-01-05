@@ -1,6 +1,6 @@
 # Hola, soy Jhon Herrera 👋
 
-**Desarrollador Backend | Ingeniero Full-Stack | Lima, Perú 🇵🇪**
+**Developer Full-Stack | Lima, Perú 🇵🇪**
 
 ---
 
@@ -16,12 +16,6 @@ const jhonHerrera = {
   estado: "Abierto a nuevas oportunidades"
 };
 ```
-
-**🔨 Actualmente**: Construyendo un sistema GRC multi-empresa con Django & React  
-**📚 Aprendiendo**: Java & Spring Boot | React Native  
-**💼 Abierto a**: Oportunidades como Desarrollador Backend y Full Stack
-
----
 
 ## 💻 Stack Tecnológico
 
@@ -64,7 +58,6 @@ Tecnologías: NestJS | React Native | PostgreSQL | OpenAI GPT-4
 ```
 - 📍 Navegación en tiempo real dentro del campus
 - 🤖 Asistente IA para encontrar laboratorios y aulas
-- ⚡ Optimización de rendimiento: respuesta de API de 2-3s a 200ms
 - 🔄 Comunicación WebSocket en tiempo real
 
 ### 📋 Sistema GRC - Gobierno, Riesgo y Cumplimiento
@@ -76,19 +69,6 @@ Tecnologías: Django REST Framework | React | TypeScript | PostgreSQL
 - 🔐 Control de acceso basado en roles (4 tipos de usuarios)
 - 📈 Gestión de evidencias y flujos de revisión administrativa
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonKenma&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonKenma&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🌐 Conectemos
 
